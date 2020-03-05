@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2020-03-05 13:33">
+  <shop>
+    <name>«АПИТ»</name>
+    <company>Производство технической укрепленности и строительство</company>
+    <url>http://apit-kovrov</url>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories/>
+    <delivery-options>
+      <option cost="0"/>
+    </delivery-options>
+    <offers>
+      <offer id="2003" available="true">
+        <url>http://apit-kovrov/?p=2003</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <name>Лп-2 Лоток передаточный выдвижной из нерж.стали. на 2 б/у</name>
+      </offer>
+      <offer id="2001" available="true">
+        <url>http://apit-kovrov/?p=2001</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <name>ЛВ-2 Лоток передаточный выдвижной из нерж.стали. на 2 б/у</name>
+      </offer>
+      <offer id="1992" available="true">
+        <url>http://apit-kovrov/?p=1992</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <name>ЛВ-2 Лоток передаточный выдвижной из нерж.стали. на 2 б/у</name>
+      </offer>
+      <offer id="1987" available="true">
+        <url>http://apit-kovrov/?p=1987</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <name>ЛВ-2 Лоток передаточный выдвижной из нерж.стали. на 2 б/у</name>
+      </offer>
+      <offer id="1596" available="true">
+        <url>http://apit-kovrov/dver-protivopozharnaja-vzlomo-pulestojkaja-dzo-iii-3-ei60/</url>
+        <price>65000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/10/dver-dzo-v-nachale-ispytanij-prevyu.jpg</picture>
+        <name>Дверь противопожарная, взломо-пулестойкая Бр3/III/ЕI60</name>
+      </offer>
+      <offer id="1575" available="true">
+        <url>http://apit-kovrov/metallodetektor-blokpost-z-600-1200-1800/</url>
+        <price>197800</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/09/z-600-1200-1800-prevyu.jpg</picture>
+        <name>Металлодетектор Блокпост Z 600 1200 1800</name>
+      </offer>
+      <offer id="1561" available="true">
+        <url>http://apit-kovrov/metallodetektor-blokpost-z-600-1200-1800-r/</url>
+        <price>249800</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/09/z-600-1200-1800-P-prevyu.jpg</picture>
+        <name>Металлодетектор Блокпост Z 600 1200 1800 Расширенный</name>
+      </offer>
+      <offer id="1551" available="true">
+        <url>http://apit-kovrov/metallodetektor-blokpost-rs-3300-m/</url>
+        <price>255900</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/09/pc-3300-m-prevyu.jpg</picture>
+        <name>Металлодетектор Блокпост РС 3300 М</name>
+      </offer>
+      <offer id="1539" available="true">
+        <url>http://apit-kovrov/metallodetektor-blokpost-rs-1000-a/</url>
+        <price>200400</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/09/pc-1100-a-prevyu.jpg</picture>
+        <name>Металлодетектор Блокпост РС 1000 А</name>
+      </offer>
+      <offer id="1529" available="true">
+        <url>http://apit-kovrov/metallodetektor-blokpost-rs-z-800-1600-2400-sbr/</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/09/z-800-1600-2400-sbr-prevyu.jpg</picture>
+        <name>Металлодетектор Блокпост РС Z 800, 1600, 2400 СБР</name>
+      </offer>
+      <offer id="1516" available="true">
+        <url>http://apit-kovrov/metallodetektor-blokpost-rs-z-600-mk/</url>
+        <price>162900</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/09/z-600-mk-prevyu.jpg</picture>
+        <name>Металлодетектор Блокпост РС Z 600 МК</name>
+      </offer>
+      <offer id="1505" available="true">
+        <url>http://apit-kovrov/metallodetektor-blokpost-rs-z-600-m/</url>
+        <price>131900</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/09/z-600-m-prevyu.jpg</picture>
+        <name>Металлодетектор Блокпост РС Z 600 М</name>
+      </offer>
+      <offer id="1496" available="true">
+        <url>http://apit-kovrov/metallodetektor-blokpost-z-600/</url>
+        <price>131900</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/09/z-600-prevyu.jpg</picture>
+        <name>Металлодетектор Блокпост Z 600</name>
+      </offer>
+      <offer id="1486" available="true">
+        <url>http://apit-kovrov/metallodetektor-blokpost-pc-1100-m/</url>
+        <price>203500</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/09/pc-1100m-prevyu.jpg</picture>
+        <name>Металлодетектор Блокпост PC 1100 М</name>
+      </offer>
+      <offer id="1476" available="true">
+        <url>http://apit-kovrov/metallodetektor-blokpost-pc-0300/</url>
+        <price>325000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/09/pc-0300-prevyu.jpg</picture>
+        <name>Металлодетектор Блокпост PC 0300</name>
+      </offer>
+      <offer id="1465" available="true">
+        <url>http://apit-kovrov/metallodetektor-blokpost-pc-z-3300-mk/</url>
+        <price>306400</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/09/pc-z-3300-mk-prevyu.jpg</picture>
+        <name>Металлодетектор Блокпост PC Z 3300 МК</name>
+      </offer>
+      <offer id="1453" available="true">
+        <url>http://apit-kovrov/metallodetektor-blokpost-pc-z-1800-mk/</url>
+        <price>229600</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/09/pc-z-1800-mk-prevyu.jpg</picture>
+        <name>Металлодетектор Блокпост PC Z 1800 МК</name>
+      </offer>
+      <offer id="1441" available="true">
+        <url>http://apit-kovrov/metallodetektor-blokpost-pc-x-600-mk/</url>
+        <price>204800</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/09/pc-x-600-mk-prevyu.jpg</picture>
+        <name>Металлодетектор Блокпост PC X 600 МК</name>
+      </offer>
+      <offer id="1430" available="true">
+        <url>http://apit-kovrov/metallodetektor-blokpost-pc-x-400-mk/</url>
+        <price>195000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/09/pc-x-400-mk-prevyu.jpg</picture>
+        <name>Металлодетектор Блокпост PC X 400 МК</name>
+      </offer>
+      <offer id="1419" available="true">
+        <url>http://apit-kovrov/metallodetektor-blokpost-pc-x-100/</url>
+        <price>156000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/09/pc-x-100-prevyu.jpg</picture>
+        <name>Металлодетектор Блокпост PC X 100</name>
+      </offer>
+      <offer id="1374" available="true">
+        <url>http://apit-kovrov/arochnyj-metallodetektor-blokpost-rs-600-m/</url>
+        <price>127100</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/08/pc-600m-01-prevyu.jpg</picture>
+        <name>Арочный металлодетектор Блокпост РС 600 М</name>
+      </offer>
+      <offer id="1360" available="true">
+        <url>http://apit-kovrov/metallodetektor-blokpost-rs-600/</url>
+        <price>110100</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/08/rs-600-prevyu.jpg</picture>
+        <name>Металлодетектор Блокпост РС 600</name>
+      </offer>
+      <offer id="1353" available="true">
+        <url>http://apit-kovrov/metallodetektor-blokpost-pc-z-3/</url>
+        <price>64600</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/08/pcz-3-prevyu.jpg</picture>
+        <name>Металлодетектор Блокпост PC Z 3</name>
+      </offer>
+      <offer id="1346" available="true">
+        <url>http://apit-kovrov/arochnyj-metallodetektor-blokpost-pc-z-1/</url>
+        <price>47300</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/08/pcz-1-prevyu.jpg</picture>
+        <name>Арочный металлодетектор Блокпост PC Z 1</name>
+      </offer>
+      <offer id="1338" available="true">
+        <url>http://apit-kovrov/ruchnoj-metallodetektor-blokpost-rd-300/</url>
+        <price>6300</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/08/rd-300-prevyu.jpg</picture>
+        <name>Ручной металлодетектор Блокпост РД-300</name>
+      </offer>
+      <offer id="1331" available="true">
+        <url>http://apit-kovrov/ruchnoj-metallodetektor-blokpost-rd-150/</url>
+        <price>4300</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/08/rd-150-prevyu.jpg</picture>
+        <name>Ручной металлодетектор Блокпост РД-150</name>
+      </offer>
+      <offer id="1317" available="true">
+        <url>http://apit-kovrov/metallodetektor-pc-z-600/</url>
+        <price>131900</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/08/blokpost-pc-z-600-02.jpg</picture>
+        <name>Металлодетектор PC Z 600</name>
+      </offer>
+      <offer id="1303" available="true">
+        <url>http://apit-kovrov/metallodetektor-blokpost-pc-z-400-mk/</url>
+        <price>115000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/08/blokpost-pc-z-400-01.jpg</picture>
+        <name>Металлодетектор Блокпост PC Z 400 МК</name>
+      </offer>
+      <offer id="1290" available="true">
+        <url>http://apit-kovrov/metallodetektor-blokpost-pc-z-100/</url>
+        <price>74800</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/08/blokpost-pc-z-100-02.jpg</picture>
+        <name>Металлодетектор Блокпост PC Z 100</name>
+      </offer>
+      <offer id="1279" available="true">
+        <url>http://apit-kovrov/arochnyj-metallodetektor-blokpost-pc-x-3300-mk/</url>
+        <price>330500</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/08/blokpost-pcx-3300-mk-01.jpg</picture>
+        <name>Арочный металлодетектор Блокпост PC X 3300 МК</name>
+      </offer>
+      <offer id="1265" available="true">
+        <url>http://apit-kovrov/arochnyj-metallodetektor-blokpost-pc-x-1800-mk/</url>
+        <price>265400</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/08/pc-x-1800mk-prevyu.jpg</picture>
+        <name>Арочный металлодетектор Блокпост PC X 1800 МК</name>
+      </offer>
+      <offer id="1255" available="true">
+        <url>http://apit-kovrov/vysokochuvstvitelnyj-arochnyj-metallodetektor-rs-v-18/</url>
+        <price>341400</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/08/pc-b-18-prevyu.jpg</picture>
+        <name>Высокочувствительный арочный металлодетектор РС В 18</name>
+      </offer>
+      <offer id="1245" available="true">
+        <url>http://apit-kovrov/ballisticheskaja-stal-br4/</url>
+        <price>17800</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/08/bron-stal.jpg</picture>
+        <name>Баллистическая сталь Бр4</name>
+      </offer>
+      <offer id="1242" available="true">
+        <url>http://apit-kovrov/ballisticheskaja-stal-br3/</url>
+        <price>12499</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/08/bron-stal.jpg</picture>
+        <name>Баллистическая сталь Бр3</name>
+      </offer>
+      <offer id="1243" available="true">
+        <url>http://apit-kovrov/ballisticheskaja-stal-br2/</url>
+        <price>6500</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/08/bron-stal.jpg</picture>
+        <name>Баллистическая сталь Бр2</name>
+      </offer>
+      <offer id="607" available="true">
+        <url>http://apit-kovrov/kassa/</url>
+        <price>311100</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/1111-2-1024x768.jpg</picture>
+        <name>Касса Бр-1.I &amp;amp;#171;под ключ&amp;amp;#187;</name>
+      </offer>
+      <offer id="853" available="true">
+        <url>http://apit-kovrov/kassa-br2-ii-pod-kljuch/</url>
+        <price>448000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/11/DSC08793-1024x768.jpg</picture>
+        <name>Касса Бр2.II &amp;amp;#171;Под ключ&amp;amp;#187;</name>
+      </offer>
+      <offer id="1138" available="true">
+        <url>http://apit-kovrov/lotok-vydvizhnoj-na-1-bankovskuju-upakovku/</url>
+        <price>12500</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/05/IMG_6443-07-05-19-04-31-768x1024.jpg</picture>
+        <name>Лоток выдвижной на 2 б/у Бр3 (ЛВ-2)</name>
+      </offer>
+      <offer id="1121" available="true">
+        <url>http://apit-kovrov/dver-vzryvostojkaja-odnostvorchataja-dz-tnt-br4-tornado/</url>
+        <price>74500</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/04/IMG_0290-e1554912996357-683x1024.jpg</picture>
+        <name>Дверь взрывостойкая одностворчатая ДЗ.ТНТ.Бр4 &amp;amp;#171;Торнадо&amp;amp;#187;</name>
+      </offer>
+      <offer id="1027" available="true">
+        <url>http://apit-kovrov/?p=1027</url>
+        <price>4500</price>
+        <currencyId>RUR</currencyId>
+        <name>тестовый продукт</name>
+      </offer>
+      <offer id="1019" available="true">
+        <url>http://apit-kovrov/paneli-pule-vzryvostojkie-pz-tnt-br4-tornado/</url>
+        <price>16500</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/02/IMG_2576-1024x768.jpg</picture>
+        <name>Панели пуле &amp;amp;#8212; взрывостойкие ПЗ.ТНТ.Бр4 &amp;amp;#171;ТОРНАДО&amp;amp;#187;</name>
+      </offer>
+      <offer id="1013" available="true">
+        <url>http://apit-kovrov/jelektromagnitnyj-zamok-al-700s/</url>
+        <price>16650</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/02/0000038866-600x600.png</picture>
+        <name>Замок электромагнитный AL-700S</name>
+      </offer>
+      <offer id="992" available="true">
+        <url>http://apit-kovrov/shljuz-inkassatorskij-shp-jem/</url>
+        <price>46000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/02/03-2_photo-resizer.ru_.png</picture>
+        <name>Шлюз инкассаторский ШП-ЭМ</name>
+      </offer>
+      <offer id="870" available="true">
+        <url>http://apit-kovrov/ruchka-skoba-300mm/</url>
+        <price>1050</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/11/IMG_7754-1024x560.jpg</picture>
+        <name>Ручка СКОБА 300мм</name>
+      </offer>
+      <offer id="855" available="true">
+        <url>http://apit-kovrov/kpp-dlja-mvd-post-ohrany-po-klassu-br4/</url>
+        <price>980000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/11/IMG_1185-23-11-18-12-38-1024x768.jpg</picture>
+        <name>КПП для МВД (пост охраны) по классу Бр4</name>
+      </offer>
+      <offer id="806" available="true">
+        <url>http://apit-kovrov/?p=806</url>
+        <price>170</price>
+        <currencyId>RUR</currencyId>
+        <name>Продукт тест</name>
+      </offer>
+      <offer id="662" available="true">
+        <url>http://apit-kovrov/?p=662</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <name>Дверь с защитным остеклением</name>
+      </offer>
+      <offer id="658" available="true">
+        <url>http://apit-kovrov/vorota-zashhitnye-raspashnye/</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/Фото0059-768x1024.jpg</picture>
+        <name>Ворота защитные распашные класса Бр-1 по пулестойкости и 1 класса устойчивости к взлому</name>
+      </offer>
+      <offer id="660" available="true">
+        <url>http://apit-kovrov/vorota-zashhitnye-raspashnye-klassa-br-2-po-pulestojkosti-i-2-klassa-ustojchivosti-k-vzlomu-2/</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/IMG_20170925_080335-e1533568710527-765x1024.jpg</picture>
+        <name>Ворота защитные распашные класса Бр-2 по пулестойкости и 2 класса устойчивости к взлому</name>
+      </offer>
+      <offer id="659" available="true">
+        <url>http://apit-kovrov/vorota-raspashnye-pulestojkie-br-3/</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/08062014541-e1533568941613-1024x917.jpg</picture>
+        <name>Ворота защитные поворотно-складные пулестойкие класса Бр-3</name>
+      </offer>
+      <offer id="617" available="true">
+        <url>http://apit-kovrov/zashhitnoe-osteklenie-v-rame-klassa-br-1-po-pulestojkosti/</url>
+        <price>13400</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/Остекление-класса-Бр-1-768x1024.jpg</picture>
+        <name>Защитное остекление в раме класса Бр-1 по пулестойкости</name>
+      </offer>
+      <offer id="623" available="true">
+        <url>http://apit-kovrov/zashhitnoe-osteklenie-v-rame-klassa-br-2-po-pulestojkosti/</url>
+        <price>15400</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/07/IMG_3161-e1533418093975-768x1024.jpg</picture>
+        <name>Защитное остекление в раме класса Бр-2 по пулестойкости</name>
+      </offer>
+      <offer id="624" available="true">
+        <url>http://apit-kovrov/zashhitnoe-osteklenie-v-rame-klassa-br-3-po-pulestojkosti/</url>
+        <price>17900</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/ПУ-с-обрамлением-574x1024.jpg</picture>
+        <name>Защитное остекление в раме класса Бр-3 по пулестойкости</name>
+      </offer>
+      <offer id="626" available="true">
+        <url>http://apit-kovrov/zashhitnoe-osteklenie-v-rame-klassa-br-4-po-pulestojkosti/</url>
+        <price>28900</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/IMG-20170118-WA0002-1024x768.jpg</picture>
+        <name>Защитное остекление в раме класса Бр-4 по пулестойкости</name>
+      </offer>
+      <offer id="628" available="true">
+        <url>http://apit-kovrov/zashhitnoe-osteklenie-v-rame-klassa-br-5-po-pulestojkosti/</url>
+        <price>65000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/Бр5.jpg</picture>
+        <name>Защитное остекление в раме класса Бр-5 по пулестойкости</name>
+      </offer>
+      <offer id="629" available="true">
+        <url>http://apit-kovrov/629/</url>
+        <price>6500</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/inventions-that-changed-our7-1024x768.jpg</picture>
+        <name>Ударостойкое стекло класса А3/Р4А</name>
+      </offer>
+      <offer id="632" available="true">
+        <url>http://apit-kovrov/632/</url>
+        <price>15400</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/92-1024x681.jpg</picture>
+        <name>Взломостойкое стекло в раме класса Б2/Р7В</name>
+      </offer>
+      <offer id="616" available="true">
+        <url>http://apit-kovrov/dver-s-peredatochnym-uzlom-pu/</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/IMG_7289-05-06-17-04-38-768x1024.jpeg</picture>
+        <name>Дверь с передаточным узлом (ПУ)</name>
+      </offer>
+      <offer id="485" available="true">
+        <url>http://apit-kovrov/paneli-betonno-zalivnye-br-1-i/</url>
+        <price>2900</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/IMG_1524-1-e1533385354985-683x1024.jpg</picture>
+        <name>Панели бетонно-заливные Бр-1.I</name>
+      </offer>
+      <offer id="484" available="true">
+        <url>http://apit-kovrov/paneli-betonno-zalivnye-br-2-ii/</url>
+        <price>3900</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/05/24092007061-e1533385480338-1024x991.jpg</picture>
+        <name>Панели бетонно-заливные Бр-2.II</name>
+      </offer>
+      <offer id="483" available="true">
+        <url>http://apit-kovrov/paneli-betonno-zalivnye-br-3-iii/</url>
+        <price>4400</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/22092007048-1024x768.jpg</picture>
+        <name>Панели бетонно-заливные Бр-3.III</name>
+      </offer>
+      <offer id="482" available="true">
+        <url>http://apit-kovrov/paneli-betonno-zalivnye-br-4-iii/</url>
+        <price>5900</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/77b37431-e9d9-45f6-8a33-62d4492c6551-e1533383568557-896x1024.jpg</picture>
+        <name>Панели бетонно-заливные Бр-4.III</name>
+      </offer>
+      <offer id="480" available="true">
+        <url>http://apit-kovrov/paneli-betonno-zalivnye-v/</url>
+        <price>6700</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/05/Хранилище-V-класс-1024x768.jpg</picture>
+        <name>Панели бетонно-заливные V</name>
+      </offer>
+      <offer id="478" available="true">
+        <url>http://apit-kovrov/paneli-betonno-zalivnyj-vi/</url>
+        <price>9700</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/IMG_5259-e1533385010302-756x1024.jpg</picture>
+        <name>Панели бетонно-заливные VI</name>
+      </offer>
+      <offer id="454" available="true">
+        <url>http://apit-kovrov/?p=454</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <name>Черновик, созданный 02.08.2018 в 07:17</name>
+      </offer>
+      <offer id="449" available="true">
+        <url>http://apit-kovrov/sjendvich-paneli-boltovye-br-1-i/</url>
+        <price>3700</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/25092007084-e1533382848378-935x1024.jpg</picture>
+        <name>Сэндвич панели болтовые Бр-1.0</name>
+      </offer>
+      <offer id="448" available="true">
+        <url>http://apit-kovrov/sjendvich-paneli-boltovye-br-1/</url>
+        <price>3900</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/20170211_143819_HDR-768x1024.jpg</picture>
+        <name>Сэндвич панели болтовые Бр-1.I</name>
+      </offer>
+      <offer id="421" available="true">
+        <url>http://apit-kovrov/panel-proba-svarka/</url>
+        <price>3500</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/05/IMG_7286-05-06-17-04-38-768x1024.jpeg</picture>
+        <name>Сэндвич панель сварная Бр-1</name>
+      </offer>
+      <offer id="354" available="true">
+        <url>http://apit-kovrov/lp-2-lotok-peredatochnyj-na-2-bu-br-4/</url>
+        <price>15000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/05/lotok25245.jpg</picture>
+        <name>Лоток передаточный одноуровневый на 2 б/у Бр-4 (ЛП-21 со шторкой)</name>
+      </offer>
+      <offer id="348" available="true">
+        <url>http://apit-kovrov/usilenie-sten-prutkom-2/</url>
+        <price>4000</price>
+        <currencyId>RUR</currencyId>
+        <name>Усиление стен прутком</name>
+      </offer>
+      <offer id="347" available="true">
+        <url>http://apit-kovrov/usilenie-sten-prutkom/</url>
+        <price>3600</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/05/usilenie-sten-prutkom-foto4.jpg</picture>
+        <name>Усиление стен прутком</name>
+      </offer>
+      <offer id="346" available="true">
+        <url>http://apit-kovrov/peregovornoe-utrojstvo/</url>
+        <price>7500</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/05/00-00002982_0.jpg</picture>
+        <name>Переговорное устройство</name>
+      </offer>
+      <offer id="333" available="true">
+        <url>http://apit-kovrov/?p=333</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <name>ЛП-2 Лоток передаточный на 2 б/у Бр-4</name>
+      </offer>
+      <offer id="331" available="true">
+        <url>http://apit-kovrov/panel-zashhitnaja-ot-perebrosa-2/</url>
+        <price>4800</price>
+        <currencyId>RUR</currencyId>
+        <name>Панель защитная от переброса</name>
+      </offer>
+      <offer id="330" available="true">
+        <url>http://apit-kovrov/panel-zashhitnaja-ot-perebrosa/</url>
+        <price>3300</price>
+        <currencyId>RUR</currencyId>
+        <name>Панель защитная от переброса</name>
+      </offer>
+      <offer id="325" available="true">
+        <url>http://apit-kovrov/paneli-zashhitnye-p-vii/</url>
+        <price>12700</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/IMG_5253-e1533385158449-769x1024.jpg</picture>
+        <name>Панели бетонно-заливные VII</name>
+      </offer>
+      <offer id="319" available="true">
+        <url>http://apit-kovrov/panel-zashhitnaja-br-2-1/</url>
+        <price>4400</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/кабина-1024x768.jpg</picture>
+        <name>Сэндвич панели болтовые Бр-2.I</name>
+      </offer>
+      <offer id="317" available="true">
+        <url>http://apit-kovrov/panel-zashhitnaja-br-2-ii-2/</url>
+        <price>4800</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/20170211_143318_HDR-768x1024.jpg</picture>
+        <name>Сэндвич панели болтовые Бр-2.II</name>
+      </offer>
+      <offer id="316" available="true">
+        <url>http://apit-kovrov/panel-zashhitnaja-br-3-3/</url>
+        <price>5600</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/05/image-08-09-16-03-17-6-1024x768.jpeg</picture>
+        <name>Сэндвич панели болтовые  Бр-3.III</name>
+      </offer>
+      <offer id="314" available="true">
+        <url>http://apit-kovrov/paneli-zashhitnye-svarnye-br-1-1/</url>
+        <price>3700</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/05/IMG_7295-05-06-17-04-42-768x1024.jpeg</picture>
+        <name>Сэндвич панель сварная Бр-1.I</name>
+      </offer>
+      <offer id="313" available="true">
+        <url>http://apit-kovrov/panel-zashhitnaja-br-2-ii/</url>
+        <price>4200</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/05/25092007069-1024x768.jpg</picture>
+        <name>Сэндвич панель сварная Бр-2.I</name>
+      </offer>
+      <offer id="312" available="true">
+        <url>http://apit-kovrov/panel-zashhitnaja-br-2-2/</url>
+        <price>4600</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/05/IMG_7296-05-06-17-04-42-768x1024.jpeg</picture>
+        <name>Сэндвич панель сварная Бр-2.II</name>
+      </offer>
+      <offer id="310" available="true">
+        <url>http://apit-kovrov/paneli-zashhitnye-svarnye-br-3-3/</url>
+        <price>5400</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/05/IMG_1952-768x1024.jpg</picture>
+        <name>Сэндвич панель сварная Бр-3.III</name>
+      </offer>
+      <offer id="308" available="true">
+        <url>http://apit-kovrov/panel-zashhitnaja-br-3-0/</url>
+        <price>5000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/05/IMG_8486-1024x683.jpg</picture>
+        <name>Сэндвич панель сварная Бр-3.0</name>
+      </offer>
+      <offer id="736" available="true">
+        <url>http://apit-kovrov/sjendvich-panel-svarnaja-br-5/</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/20170211_143422_HDR-1024x768.jpg</picture>
+        <name>Сэндвич панель сварная Бр-5</name>
+      </offer>
+      <offer id="295" available="true">
+        <url>http://apit-kovrov/dver-metallicheskaja-dvuhstvorchata/</url>
+        <price>30900</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/05/metallicheskaya-dvustvorchataya-dver-foto1.jpg</picture>
+        <name>Дверь металлическая двухстворчатая</name>
+      </offer>
+      <offer id="294" available="true">
+        <url>http://apit-kovrov/dver-metallicheskaja/</url>
+        <price>18500</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/05/metallicheskaya-odnostvorchataya-dver-foto7.jpg</picture>
+        <name>Дверь металлическая</name>
+      </offer>
+      <offer id="292" available="true">
+        <url>http://apit-kovrov/reshetka-metallicheskaja-stacionarnaja/</url>
+        <price>4000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/05/resh-stacionar.jpg</picture>
+        <name>Решетка металлическая стационарная</name>
+      </offer>
+      <offer id="291" available="true">
+        <url>http://apit-kovrov/reshetka-metallicheskaja-raspashnaja/</url>
+        <price>4800</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/05/reshetka.jpg</picture>
+        <name>Решетка металлическая распашная</name>
+      </offer>
+      <offer id="289" available="true">
+        <url>http://apit-kovrov/dver-reshetchetaja/</url>
+        <price>10500</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/IMG_7539-576x1024.jpg</picture>
+        <name>Дверь решетчатая</name>
+      </offer>
+      <offer id="280" available="true">
+        <url>http://apit-kovrov/shljuz-inkassatorskij-shp-mg-bez-stekla/</url>
+        <price>38000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2019/06/mekhanicheskij-shlyuz-bez-stekla.jpg</picture>
+        <name>Шлюз инкассаторский ШП-МГ (без стекла)</name>
+      </offer>
+      <offer id="278" available="true">
+        <url>http://apit-kovrov/shljuz-inkassatorskij-shp-km/</url>
+        <price>36000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/IMG_3163-e1533476069189-768x1024.jpg</picture>
+        <name>Шлюз инкассаторский ШП-КМ</name>
+      </offer>
+      <offer id="654" available="true">
+        <url>http://apit-kovrov/shljuz-inkassatorskij-shp-kmg/</url>
+        <price>34000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/Шлюз-ШПКМГ-896x1024.jpg</picture>
+        <name>Шлюз инкассаторский ШП-КМГ</name>
+      </offer>
+      <offer id="657" available="true">
+        <url>http://apit-kovrov/shljuz-inkassatorskij-shp-k19/</url>
+        <price>73000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/ШП-К19-810х800х640-габ-1000х990х750.jpeg-768x1024.jpeg</picture>
+        <name>Шлюз инкассаторский ШП-К19</name>
+      </offer>
+      <offer id="655" available="true">
+        <url>http://apit-kovrov/shljuz-inkassatorskij-shp-k20/</url>
+        <price>124600</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/05/ШП-КЭ20_2-768x1024.jpeg</picture>
+        <name>Шлюз инкассаторский ШП-К20</name>
+      </offer>
+      <offer id="282" available="true">
+        <url>http://apit-kovrov/?p=282</url>
+        <price>45500</price>
+        <currencyId>RUR</currencyId>
+        <name>Шлюз инкассаторский ШП-К1</name>
+      </offer>
+      <offer id="276" available="true">
+        <url>http://apit-kovrov/shljuz-inkassatorskij-shp-kmg-bez-stekla/</url>
+        <price>40000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/DSC00570.jpg</picture>
+        <name>Шлюз инкассаторский ШП-М</name>
+      </offer>
+      <offer id="283" available="true">
+        <url>http://apit-kovrov/?p=283</url>
+        <price>47800</price>
+        <currencyId>RUR</currencyId>
+        <name>Шлюз инкассаторский ШП-К2</name>
+      </offer>
+      <offer id="284" available="true">
+        <url>http://apit-kovrov/?p=284</url>
+        <price>49800</price>
+        <currencyId>RUR</currencyId>
+        <name>Шлюз инкассаторский ШП-К3</name>
+      </offer>
+      <offer id="285" available="true">
+        <url>http://apit-kovrov/?p=285</url>
+        <price>53800</price>
+        <currencyId>RUR</currencyId>
+        <name>Шлюз инкассаторский ШП-К4</name>
+      </offer>
+      <offer id="286" available="true">
+        <url>http://apit-kovrov/?p=286</url>
+        <price>54800</price>
+        <currencyId>RUR</currencyId>
+        <name>Шлюз инкассаторский ШП-К5</name>
+      </offer>
+      <offer id="287" available="true">
+        <url>http://apit-kovrov/?p=287</url>
+        <price>32200</price>
+        <currencyId>RUR</currencyId>
+        <name>Шлюз инкассаторский ШП-К6</name>
+      </offer>
+      <offer id="288" available="true">
+        <url>http://apit-kovrov/?p=288</url>
+        <price>43000</price>
+        <currencyId>RUR</currencyId>
+        <name>Шлюз инкассаторский ШП-К7</name>
+      </offer>
+      <offer id="275" available="true">
+        <url>http://apit-kovrov/monetnaja-vitrina-mvfo-na-noge/</url>
+        <price>75000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/05/1-765x1024.jpg</picture>
+        <name>Монетная витрина МВФО на ноге</name>
+      </offer>
+      <offer id="273" available="true">
+        <url>http://apit-kovrov/monetnaja-vitrina-mvfo/</url>
+        <price>67000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/05/Готовая1-811x1024.jpg</picture>
+        <name>Монетная витрина МВФО</name>
+      </offer>
+      <offer id="272" available="true">
+        <url>http://apit-kovrov/monetnaja-vitrina-mvto/</url>
+        <price>65000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/05/Готовая2-722x1024.jpg</picture>
+        <name>Монетная витрина МВТО</name>
+      </offer>
+      <offer id="269" available="true">
+        <url>http://apit-kovrov/dver-vzlomo-pulestojkaja-br-1-0/</url>
+        <price>20000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/IMG_20170925_085845-576x1024.jpg</picture>
+        <name>Дверной блок класс Бр-1 по пулестойкости</name>
+      </offer>
+      <offer id="266" available="true">
+        <url>http://apit-kovrov/dver-vzlomo-pulestojkaja-br1-i/</url>
+        <price>20600</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/IMAG0448-574x1024.jpg</picture>
+        <name>Дверной блок класс Бр-1 по пулестойкости и 1 класс устойчивости к взлому</name>
+      </offer>
+      <offer id="611" available="true">
+        <url>http://apit-kovrov/dvernoj-blok-1-ogo-klassa-ustojchivosti-k-vzlomu-i-klassa-br-2-po-pulestojkosti/</url>
+        <price>24700</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/IMG_7284-05-06-17-04-38-768x1024.jpeg</picture>
+        <name>Дверной блок 1 класс устойчивости к взлому и класс Бр-2 по пулестойкости</name>
+      </offer>
+      <offer id="612" available="true">
+        <url>http://apit-kovrov/dvernoj-blok-2-ogo-klassa-ustojchivosti-k-vzlomu-i-klassa-br-2-po-pulestojkosti/</url>
+        <price>24500</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/IMAG0744-574x1024.jpg</picture>
+        <name>Дверной блок 2-ого класса устойчивости к взлому и класса Бр-2 по пулестойкости</name>
+      </offer>
+      <offer id="613" available="true">
+        <url>http://apit-kovrov/dvernoj-blok-3-ogo-klassa-ustojchivosti-k-vzlomu-i-klassa-br-3-po-pulestojkosti/</url>
+        <price>27300</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/IMAG0723-574x1024.jpg</picture>
+        <name>Дверной блок класс Бр-3 по пулестойкости и 3 класса устойчивости к взлому</name>
+      </offer>
+      <offer id="614" available="true">
+        <url>http://apit-kovrov/dvernoj-blok-3-ogo-klassa-ustojchivosti-k-vzlomu-i-klassa-br-4-po-pulestojkosti/</url>
+        <price>40700</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/Дверь-III-взлом-768x1024.jpg</picture>
+        <name>Дверной блок 3 класс устойчивости к взлому и класс Бр-4 по пулестойкости</name>
+      </offer>
+      <offer id="615" available="true">
+        <url>http://apit-kovrov/dvernoj-blok-klassa-br-4-po-pulestojkosti/</url>
+        <price>89600</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/IMAG0425-574x1024.jpg</picture>
+        <name>Дверной блок класса Бр-5 по пулестойкости</name>
+      </offer>
+      <offer id="241" available="true">
+        <url>http://apit-kovrov/okno-kho/</url>
+        <price>10000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/05/2018-05-04-PHOTO-00000024-768x1024.jpg</picture>
+        <name>Окно КХО</name>
+      </offer>
+      <offer id="223" available="true">
+        <url>http://apit-kovrov/lshh-lotok-shhelevoj-dlja-dokumentov/</url>
+        <price>4500</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2017/09/IMG_6708.jpg</picture>
+        <name>Лоток щелевой для документов Бр-3 (ЛЩ)</name>
+      </offer>
+      <offer id="204" available="true">
+        <url>http://apit-kovrov/shlyuz-inkassatorskij-shp-kmg-bez-stekla/</url>
+        <price>33500</price>
+        <currencyId>RUR</currencyId>
+        <name>Шлюз инкассаторский ШП-КМГ (без стекла)</name>
+      </offer>
+      <offer id="203" available="true">
+        <url>http://apit-kovrov/reshetka-razdvizhnaya/</url>
+        <price>9000</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2017/09/resh-razdvizh.jpg</picture>
+        <name>Решетка металлическая раздвижная</name>
+      </offer>
+      <offer id="96" available="true">
+        <url>http://apit-kovrov/lp-2-lotok-peredatochnyj-na-2-bu-br-3/</url>
+        <price>15500</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2017/08/Лоток-зерк.нерж.jpg</picture>
+        <name>Лоток передаточный двухуровневый на 2 б/у Бр-3 (ЛП-22)</name>
+      </offer>
+      <offer id="95" available="true">
+        <url>http://apit-kovrov/lotok-lp1/</url>
+        <price>14500</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2017/08/ЛП1-одноуровневый-мат.нерж-1024x686.jpg</picture>
+        <name>Лоток передаточный одноуровневый на 2 б/у Бр-3 (ЛП-21 со шторкой)</name>
+      </offer>
+      <offer id="94" available="true">
+        <url>http://apit-kovrov/monetnaja-vitrina-mv123u/</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2017/08/CIMG1947-1024x768.jpg</picture>
+        <name>Монетная витрина МВ123У</name>
+      </offer>
+      <offer id="92" available="true">
+        <url>http://apit-kovrov/?p=92</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2017/08/br-panel.jpg</picture>
+        <name>Панель защитная Бр1</name>
+      </offer>
+      <offer id="91" available="true">
+        <url>http://apit-kovrov/dver-kho-v-komplekte-s-reshetchatoi/</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2017/08/2018-05-04-PHOTO-00000027-768x1024.jpg</picture>
+        <name>Дверь КХО в комплекте с решетчатой дверью</name>
+      </offer>
+      <offer id="90" available="true">
+        <url>http://apit-kovrov/dvernoj-blok/</url>
+        <price>42650</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/IMG_8551-20-07-18-01-15-1024x834.jpg</picture>
+        <name>Дверной блок двухстворчатый Бр-1.I, с максимальным остеклением</name>
+      </offer>
+      <offer id="87" available="true">
+        <url>http://apit-kovrov/?p=87</url>
+        <price>3500</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2017/08/br-panel.jpg</picture>
+        <name>Сэндвич панель сварная Бр-1</name>
+      </offer>
+      <offer id="86" available="true">
+        <url>http://apit-kovrov/ii-klass-ustojchivosti-k-vzlomu-2-j-kl-pulestojkosti-a50-ii/</url>
+        <price>5200</price>
+        <currencyId>RUR</currencyId>
+        <picture>http://apit-kovrov/wp-content/uploads/2018/08/DSC_0015-e1533383369136-1024x917.jpg</picture>
+        <name>Сэндвич панели болтовые Бр-3.0</name>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
