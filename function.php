@@ -3,7 +3,6 @@
 function yml_creator_function()
 {
     /* Достаю все товары каталога для дальнейшей обработки материала */
-    //echo get_option('goods_catalog_yml_field1');
     $args = array(
         'post_type' => 'products',
         'posts_per_page' => -1
@@ -11,12 +10,12 @@ function yml_creator_function()
     //'posts_per_page' => -1 MEANS 'posts_per_page' => ALL
     $query = new WP_Query;
     $my_posts = $query->query($args);
-//echo var_dump($my_posts);
+    //echo var_dump($my_posts);
 
-//Создает XML-строку и XML-документ при помощи DOM
+    //Создает XML-строку и XML-документ при помощи DOM
     $dom = new DomDocument('1.0', "utf-8");
 
-//добавление корня - <yml_catalog>
+    //добавление корня - <yml_catalog>
     $yml_catalog = $dom->appendChild($dom->createElement('yml_catalog'));
 
     $att = $dom->createAttribute('date');
@@ -62,19 +61,6 @@ function yml_creator_function()
     $rate->value = "1";
     $currency->appendChild($rate);
     $currencies->appendChild($currency);
-/*
-    // добавление долларов <currency> в <currencies>
-    $currency = $currencies->appendChild($dom->createElement('currency'));
-
-    $id = $dom->createAttribute('id');
-    $id->value = "USD";
-    $currency->appendChild($id);
-    $currencies->appendChild($currency);
-    $rate = $dom->createAttribute('rate');
-    $rate->value = get_option('gcYmlCours', 'CBRF');
-    $currency->appendChild($rate);
-    $currencies->appendChild($currency);
-*/
 
     // добавление элемента <categories> в <shop>
     $categories = $shop->appendChild($dom->createElement('categories'));
@@ -117,17 +103,6 @@ function yml_creator_function()
     $option->appendChild($cost);
     $delivery_options->appendChild($option);
 
-
-    /* добавление элемента <cpa> в <shop> Если в админке стоит галочка, добавляем.
-    $cpa = $shop->appendChild($dom->createElement('cpa'));
-    if (get_option('gcYmlCPA') == 1) {
-        $cpa->appendChild(
-            $dom->createTextNode('1'));
-    } else {
-        $cpa->appendChild(
-            $dom->createTextNode('0'));
-    }
-*/
     // добавление элемента <offers> в <shop>
     $offers = $shop->appendChild($dom->createElement('offers'));
 
@@ -135,7 +110,6 @@ function yml_creator_function()
     foreach ($my_posts as $my_post) {
         $gc_price = get_post_meta($my_post->ID, '_price', true); // echo 'Цена'.(int)$gc_price;
         $gc_price = intval(str_replace(" ", "", $gc_price)); // Из цены удаляю пробел, а потом преобразую в целое число.
-        //		echo '<p>'. $my_post->post_title .' '.$my_post->post_content.'</p>';
 
         // добавление элемента <offer> в <offers>
         $offer = $offers->appendChild($dom->createElement('offer'));
@@ -152,24 +126,20 @@ function yml_creator_function()
             $dom->createTextNode(get_permalink($my_post->ID)));
         $price = $offer->appendChild($dom->createElement('price'));
         $price->appendChild(
-            $dom->createTextNode((int)$gc_price === 0?$gc_price:str_replace(' ','',$gc_price)));
+            $dom->createTextNode((int)$gc_price === 0 ? $gc_price : str_replace(' ', '', $gc_price)));
         $currencyId = $offer->appendChild($dom->createElement('currencyId'));
         $currencyId->appendChild(
             $dom->createTextNode('RUR'));
 
         /* Получаю ID категории по ID поста*/
-        $term = get_the_terms($my_post->ID,'product-category');
-        echo var_dump($term);
-        if(!is_wp_error($term)){
-        $categoryId = $offer->appendChild($dom->createElement('categoryId'));
-        $categoryId->appendChild($dom->createTextNode($term[0]->term_id));
+        $term = wp_get_object_terms($my_post->ID, 'category');
+        ?>
+<pre><?php echo var_dump($term); ?></pre>
+        <?php
+        if (!is_wp_error($term)) {
+            $categoryId = $offer->appendChild($dom->createElement('categoryId'));
+            $categoryId->appendChild($dom->createTextNode($term[0]->term_id));
         }
-
-        /*	 Закоментил, т.к. у нас непонятно в какую категорию должен попасть товар
-        $market_category = $offer->appendChild($dom->createElement('market_category'));
-        $market_category->appendChild(
-        $dom->createTextNode('Все товары/Дом и дача/Строительство и ремонт/Сантехника и водоснабжение/Водяные насосы'));
-        */
 
         /*Если есть картинка, вывожу ее в YML */
         if (get_the_post_thumbnail_url($my_post->ID, large)) {
@@ -184,14 +154,10 @@ function yml_creator_function()
 
     }
 
-
     //генерация xml
     $dom->formatOutput = true; // установка атрибута formatOutput
     // domDocument в значение true
-    // save XML as string or file
-    $test1 = $dom->saveXML(); // передача строки в test1
 
-    $dom->save($_SERVER['DOCUMENT_ROOT'].'/wp-content/plugins/wp-yml-creator/yandex.yml'); // сохранение файла
-
+    $dom->save($_SERVER['DOCUMENT_ROOT'] . '/wp-content/plugins/wp-yml-creator/yandex.yml'); // сохранение файла
 
 }
