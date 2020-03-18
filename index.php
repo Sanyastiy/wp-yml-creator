@@ -36,6 +36,6 @@ if (version_compare(floatval(get_bloginfo('version')), '4.4', '<')) { // есл�
 
     require_once('setting.php');
     require_once('function.php');
-
+    
     add_action('init', 'yml_creator_function');
 }
