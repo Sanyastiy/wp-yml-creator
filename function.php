@@ -71,10 +71,6 @@ function yml_creator_function()
     //получаем список всех категорий товаров
     $catlist = get_terms();
 
-    ?>
-<!--     <pre><?php // echo var_dump($catlist); ?></pre> -->
-    <?php
-
     //разбираем категории на первичные и побочные
     foreach ($catlist as $categories_item) {
         $category = $categories->appendChild($dom->createElement('category'));
